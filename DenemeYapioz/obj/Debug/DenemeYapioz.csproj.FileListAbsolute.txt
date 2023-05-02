@@ -1,0 +1,8 @@
+C:\Users\elifh\Documents\Unity Development\DenemeYapioz\DenemeYapioz\bin\Debug\DenemeYapioz.exe.config
+C:\Users\elifh\Documents\Unity Development\DenemeYapioz\DenemeYapioz\bin\Debug\DenemeYapioz.exe
+C:\Users\elifh\Documents\Unity Development\DenemeYapioz\DenemeYapioz\bin\Debug\DenemeYapioz.pdb
+C:\Users\elifh\Documents\Unity Development\DenemeYapioz\DenemeYapioz\obj\Debug\DenemeYapioz.csproj.AssemblyReference.cache
+C:\Users\elifh\Documents\Unity Development\DenemeYapioz\DenemeYapioz\obj\Debug\DenemeYapioz.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifh\Documents\Unity Development\DenemeYapioz\DenemeYapioz\obj\Debug\DenemeYapioz.csproj.CoreCompileInputs.cache
+C:\Users\elifh\Documents\Unity Development\DenemeYapioz\DenemeYapioz\obj\Debug\DenemeYapioz.exe
+C:\Users\elifh\Documents\Unity Development\DenemeYapioz\DenemeYapioz\obj\Debug\DenemeYapioz.pdb
